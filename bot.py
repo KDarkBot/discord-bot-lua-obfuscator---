@@ -5,7 +5,7 @@ import subprocess
 import shutil
 
 TOKEN = os.environ['DISCORD_TOKEN']
-channel_id = 994709144449851452
+channel_id = 1143563670115332116
 
 intents = discord.Intents.all()
 intents.typing = False
